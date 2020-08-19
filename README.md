@@ -16,3 +16,7 @@ str() - This function cinverts valurs into a string. In this code it will work w
 
 **str()**
 The formula will square legA and legB, then calculate the sum and finaly the sum will be raise to the power of .5 and this will gove you the result. 
+
+[**Code:**](https://github.com/Fran0616/rightTriangle/blob/master/rightTriangle%20.py)
+
+
