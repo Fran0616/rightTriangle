@@ -19,4 +19,11 @@ The formula will square legA and legB, then calculate the sum and finaly the sum
 
 [**Code:**](https://github.com/Fran0616/rightTriangle/blob/master/rightTriangle%20.py)
 
+print ("This code will find the hypotenus of a right triangle")
+
+legA = float(input("Input first leg length: "))
+
+legB = float(input("Input second leg length: "))
+
+print ("Hypotenuse leength is " + str((legA**2 + legB**2) ** .5))
 
