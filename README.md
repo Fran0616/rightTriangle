@@ -15,4 +15,4 @@ legB - This varaibles holds the value for the second leg.
 str() - This function cinverts valurs into a string. In this code it will work with the print function to calculate the hypotenus of a given right triangle. 
 
 **str()**
-The formula 
+The formula will square legA and legB, then calculate the sum and finaly the sum will be raise to the power of .5 and this will gove you the result. 
